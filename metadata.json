@@ -2,5 +2,22 @@
   "name": "Hot Toaster",
   "symbol": "HTT",
   "description": "Meme token launching on Solana — feel the heat!",
-  "image": "https://raw.githubusercontent.com/HotToasterr/HotToaster-Token/main/logo.png"
-}
+  "image": "https://raw.githubusercontent.com/HotToasterr/HotToaster-Token/main/logo.png",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://x.com/HottToaster",
+  "attributes": [],
+  "collection": {
+    "name": "Hot Toaster",
+    "family": "Hot Meme Coins"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/HotToasterr/HotToaster-Token/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "UEtQ
